@@ -68,7 +68,7 @@ const ContactForm = () => {
             <Phone className="text-[#ff5722] mr-2" />
             <div>
               <h4 className="font-semibold text-gray-700">Call Us</h4>
-              <p className="text-gray-600">+91 7567145617</p>
+              <p className="text-gray-600">+91 8200376537</p>
             </div>
           </div>
 
@@ -76,7 +76,7 @@ const ContactForm = () => {
             <Email className="text-[#ff5722] mr-2" />
             <div>
               <h4 className="font-semibold text-gray-700">Email Us</h4>
-              <p className="text-gray-600">sparkvision73@gmail.com</p>
+              <p className="text-gray-600">arshigojiya526@gmail.com</p>
             </div>
           </div>
         </div>
