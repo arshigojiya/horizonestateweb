@@ -1,0 +1,26 @@
+[
+  {
+    "id": "671de15e776ab626986adf2e",
+    "username": "john_doe",
+    "email": "john.doe@example.com",
+    "password": "securepassword123"
+  },
+  {
+    "id": "671de4627014dc2698d2f336",
+    "username": "mahesh",
+    "email": "mahesh@gmail.com",
+    "password": "mahesh123"
+  },
+  {
+    "id": "671de59e2ba8a22698490a2f",
+    "username": "user",
+    "email": "user@gmail.com",
+    "password": "user123"
+  },
+  {
+    "id": "671de819283c6d269804a58b",
+    "username": "alpesh",
+    "email": "hell@gmail.com",
+    "password": "sss"
+  }
+]
